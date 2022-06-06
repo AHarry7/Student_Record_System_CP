@@ -1,6 +1,6 @@
 INTRODUCTION 
 
-A student record system with a GPA calculator providing various functions.
+A student record system with a GPA calculator providing various functions. This is Computer fundamental programming project so no classes are used.
 
 PURPOSE OF THE SYSTEM 
 
